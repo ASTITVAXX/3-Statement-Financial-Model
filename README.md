@@ -1,25 +1,36 @@
-#3-Statement Financial Model
-This project presents a 3-statement financial model that forecasts an entity’s Income Statement, Balance Sheet, and Cash Flow Statement for the period 2024F to 2028F.
+# 3-Statement Financial Model  
 
-📌 Summary of Financial Projections
-🔹 Income Statement
-Revenue is expected to increase from $198.4B (2024) to $248.0B (2028).
-Gross Profit expands from $113.1B to $153.7B over the forecast period.
-Net Income grows from $27.2B in 2024 to $42.7B in 2028, reflecting improved profitability.
-🔹 Balance Sheet
-Cash & Cash Equivalents steadily rise from $21.5B to $91.8B.
-Total Assets increase from $101.1B to $176.8B, driven by strong cash flow generation.
-Total Liabilities see a slight increase from $56.7B to $58.5B.
-Shareholders' Equity strengthens from $44.4B to $118.3B, indicating retained earnings growth.
-🔹 Cash Flow Statement
-Operating Cash Flow improves from $31.9B in 2024 to $52.4B in 2028.
-Capital expenditures remain steady, with dividends increasing over time.
-Year-end cash balances grow consistently, reflecting financial stability.
+## Overview  
+This model provides a structured framework for **financial forecasting, valuation analysis, investment decision-making, and strategic planning**.  
 
-📌 Key Assumptions
-Unit Sales Growth: Sales volume increases from 400M to 500M over five years.
-Stable Pricing: Price per unit remains at $496 throughout the forecast period.
-Efficiency Gains: COGS as a percentage of revenue declines from 43.0% to 38.0%, improving margins.
-SG&A Expenses: Held constant at 35.0% of revenue.
-Tax Rate: Fixed at 21%, ensuring consistency in net income projections.
+## Financial Projections  
 
+### Income Statement  
+- **Revenue Growth:** $198.4B (2024) → $248.0B (2028)  
+- **Gross Profit:** $113.1B (2024) → $153.7B (2028)  
+- **Net Income:** $27.2B (2024) → $42.7B (2028)  
+
+### Balance Sheet  
+- **Cash & Equivalents:** $21.5B (2024) → $91.8B (2028)  
+- **Total Assets:** $101.1B (2024) → $176.8B (2028)  
+- **Total Liabilities:** $56.7B (2024) → $58.5B (2028)  
+- **Shareholders' Equity:** $44.4B (2024) → $118.3B (2028)  
+
+### Cash Flow Statement  
+- **Operating Cash Flow:** $31.9B (2024) → $52.4B (2028)  
+- **Capital Expenditures:** Remain steady with increasing dividends.  
+- **Year-End Cash Balance:** Grows consistently each year.  
+
+## Key Assumptions  
+- **Unit Sales Growth:** 400M units (2024) → 500M units (2028)  
+- **Stable Pricing:** $496 per unit throughout the forecast period  
+- **Efficiency Gains:** COGS as % of revenue decreases from **43% → 38%**  
+- **SG&A Expenses:** Held constant at **35% of revenue**  
+- **Tax Rate:** Fixed at **21%**  
+
+## Usage  
+This model can be used for:  
+ **Financial Planning & Analysis (FP&A)**  
+ **Investment Banking & Valuation Models**  
+ **Mergers & Acquisitions (M&A) Analysis**  
+ **Corporate Strategy & Decision Making**  
